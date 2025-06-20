@@ -5,7 +5,7 @@
 
 This repository contains the exploratory data analysis (EDA) performed on a real-world dataset from an online retail business based in the UK. The dataset spans one year of transaction records and was sourced from the UCI Machine Learning Repository .
 
-### The goal of this analysis was to:
+### The goal of this analysis was to :
 
 Clean and preprocess the dataset
 Uncover sales trends and patterns
@@ -38,7 +38,7 @@ Internationally, the Netherlands and Germany followed the UK in revenue generati
 
 ## 🖼️ Visual Highlights
 
-### Visualizations created include:
+### Visualizations created include :
 
 Bar chart of Top 10 Countries by Revenue
 Chart showing Top-Spending Customers
@@ -49,7 +49,7 @@ Histograms, Boxplots, and Count Plots
 
 ## 🧾 Conclusion
 
-### The EDA provided valuable insights into the company’s sales dynamics and customer behavior:
+### The EDA provided valuable insights into the company’s sales dynamics and customer behavior :
 
 Data cleaning was essential for accurate results, removing thousands of problematic records.
 Seasonal trends suggest opportunities for targeted promotions during peak months.
